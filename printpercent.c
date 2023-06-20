@@ -13,3 +13,4 @@ int printpercent(char *format, va_list pa)
 	_putchar('%');
 	return (1);
 }
+

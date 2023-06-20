@@ -18,3 +18,4 @@ int _puts(char *string)
 	}
 	return (contador);
 }
+

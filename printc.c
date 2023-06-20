@@ -12,3 +12,7 @@ int printc(char *format, va_list pa)
 	_putchar(va_arg(pa, int));
 	return (1);
 }
+int main()
+{
+    return 0;
+}
